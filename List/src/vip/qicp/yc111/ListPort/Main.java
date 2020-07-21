@@ -15,7 +15,7 @@ public class Main {
         //Person{name='李四', age=26}
         //Person{name='赵武', age=37}
 
-
+        System.out.println("----------------------------");
 
     }
 }
